@@ -1,0 +1,63 @@
+.spanMoreBigThan {
+    display: flex;
+    justify-content: center;
+    margin: 5% 0 5% 0;
+    font-size: 24px;
+    font-weight: 800;
+    font-family:  'Roboto', sans-serif;
+}
+
+.spanBig {
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    font-weight: 900;
+    margin: 5% 0 5% 0;
+    font-family:  'Roboto', sans-serif;
+}
+
+.backgroundPage {
+    width: 100%;
+    height: 100%;
+    // background-image: linear-gradient(#01B6ED, #B5E2F9);
+}
+
+.divSize {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    width: 90%;
+    height: 90%;
+}
+
+.cardSize {
+    width: 100%;
+    height: 100%;
+    top: 20px;
+    background-color: #eeeeee
+}
+
+h3 {
+    margin-bottom: 1%;
+}
+
+.withChannel {
+    margin-bottom: 5%;
+}
+
+.imgChartDiv {
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    max-width: 100%;
+}
+
+.imgChart {
+    width: 100%;
+}
+
+.withoutChannel {
+    position: relative;
+    top: 5%;
+}
